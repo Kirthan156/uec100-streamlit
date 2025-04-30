@@ -1,0 +1,1115 @@
+{
+    "rice": {
+      "calories": 130,
+      "nutrients": {
+        "carbs": "28g",
+        "protein": "2.7g",
+        "fat": "0.3g"
+      },
+      "vegetarian": true,
+      "ingredients": "Rice",
+      "recipe": "Boil rice in water until soft."
+    },
+    "eels on rice": {
+      "calories": 250,
+      "nutrients": {
+        "carbs": "30g",
+        "protein": "25g",
+        "fat": "9g"
+      },
+      "vegetarian": false,
+      "ingredients": "Eel, rice, soy sauce, sugar, mirin",
+      "recipe": "Grill eel, place on top of rice, and drizzle with sauce."
+    },
+    "pilaf": {
+      "calories": 200,
+      "nutrients": {
+        "carbs": "36g",
+        "protein": "4g",
+        "fat": "5g"
+      },
+      "vegetarian": true,
+      "ingredients": "Rice, onions, broth, vegetables, spices",
+      "recipe": "Cook rice with onions, broth, and spices, then serve."
+    },
+    "chicken-'n'-egg on rice": {
+      "calories": 300,
+      "nutrients": {
+        "carbs": "35g",
+        "protein": "18g",
+        "fat": "14g"
+      },
+      "vegetarian": false,
+      "ingredients": "Chicken, egg, rice, soy sauce, sugar",
+      "recipe": "Cook chicken and egg together with soy sauce and sugar, then serve over rice."
+    },
+    "pork cutlet on rice": {
+      "calories": 400,
+      "nutrients": {
+        "carbs": "35g",
+        "protein": "28g",
+        "fat": "20g"
+      },
+      "vegetarian": false,
+      "ingredients": "Pork cutlet, rice, panko breadcrumbs, egg",
+      "recipe": "Bread and fry pork cutlet, then serve on top of rice."
+    },
+    "beef curry": {
+      "calories": 350,
+      "nutrients": {
+        "carbs": "45g",
+        "protein": "20g",
+        "fat": "10g"
+      },
+      "vegetarian": false,
+      "ingredients": "Beef, carrots, onions, potatoes, curry sauce",
+      "recipe": "Cook beef and vegetables in curry sauce until tender."
+    },
+    "sushi": {
+      "calories": 200,
+      "nutrients": {
+        "carbs": "30g",
+        "protein": "12g",
+        "fat": "5g"
+      },
+      "vegetarian": false,
+      "ingredients": "Rice, nori, fish, vegetables, soy sauce",
+      "recipe": "Roll sushi rice, fish, and vegetables in nori, and serve with soy sauce."
+    },
+    "chicken rice": {
+      "calories": 350,
+      "nutrients": {
+        "carbs": "45g",
+        "protein": "25g",
+        "fat": "12g"
+      },
+      "vegetarian": false,
+      "ingredients": "Chicken, rice, soy sauce, garlic, ginger",
+      "recipe": "Cook chicken with rice, garlic, and ginger."
+    },
+    "fried rice": {
+      "calories": 400,
+      "nutrients": {
+        "carbs": "50g",
+        "protein": "10g",
+        "fat": "16g"
+      },
+      "vegetarian": true,
+      "ingredients": "Rice, vegetables, soy sauce, egg",
+      "recipe": "Fry cooked rice with vegetables and egg, and season with soy sauce."
+    },
+    "tempura bowl": {
+      "calories": 450,
+      "nutrients": {
+        "carbs": "50g",
+        "protein": "20g",
+        "fat": "25g"
+      },
+      "vegetarian": false,
+      "ingredients": "Shrimp, vegetables, tempura batter, rice",
+      "recipe": "Deep fry shrimp and vegetables in batter, and serve over rice."
+    },
+    "bibimbap": {
+      "calories": 550,
+      "nutrients": {
+        "carbs": "70g",
+        "protein": "25g",
+        "fat": "20g"
+      },
+      "vegetarian": false,
+      "ingredients": "Rice, beef, spinach, egg, gochujang",
+      "recipe": "Mix cooked rice with vegetables, beef, egg, and gochujang."
+    },
+    "toast": {
+      "calories": 70,
+      "nutrients": {
+        "carbs": "12g",
+        "protein": "2g",
+        "fat": "2g"
+      },
+      "vegetarian": true,
+      "ingredients": "Bread, butter",
+      "recipe": "Toast the bread and spread with butter."
+    },
+    "croissant": {
+      "calories": 230,
+      "nutrients": {
+        "carbs": "25g",
+        "protein": "5g",
+        "fat": "12g"
+      },
+      "vegetarian": true,
+      "ingredients": "Flour, butter, yeast, sugar",
+      "recipe": "Bake the dough made of butter, flour, and yeast into a flaky croissant."
+    },
+    "roll bread": {
+      "calories": 150,
+      "nutrients": {
+        "carbs": "25g",
+        "protein": "4g",
+        "fat": "4g"
+      },
+      "vegetarian": true,
+      "ingredients": "Flour, yeast, water, sugar",
+      "recipe": "Bake dough made of flour, water, and yeast into small rolls."
+    },
+    "raisin bread": {
+      "calories": 210,
+      "nutrients": {
+        "carbs": "35g",
+        "protein": "5g",
+        "fat": "6g"
+      },
+      "vegetarian": true,
+      "ingredients": "Flour, raisins, yeast, sugar, butter",
+      "recipe": "Bake dough with raisins and butter into a sweet bread."
+    },
+    "chip butty": {
+      "calories": 450,
+      "nutrients": {
+        "carbs": "60g",
+        "protein": "7g",
+        "fat": "20g"
+      },
+      "vegetarian": true,
+      "ingredients": "Bread, fries, butter",
+      "recipe": "Place hot fries in a buttered sandwich."
+    },
+    "hamburger": {
+      "calories": 250,
+      "nutrients": {
+        "carbs": "30g",
+        "protein": "15g",
+        "fat": "12g"
+      },
+      "vegetarian": false,
+      "ingredients": "Beef patty, bread, lettuce, tomato, cheese",
+      "recipe": "Grill beef patty and assemble with bread, lettuce, tomato, and cheese."
+    },
+    "pizza": {
+      "calories": 280,
+      "nutrients": {
+        "carbs": "36g",
+        "protein": "12g",
+        "fat": "10g"
+      },
+      "vegetarian": false,
+      "ingredients": "Dough, cheese, tomato sauce, pepperoni",
+      "recipe": "Top pizza dough with sauce, cheese, and toppings, then bake."
+    },
+    "sandwiches": {
+      "calories": 300,
+      "nutrients": {
+        "carbs": "40g",
+        "protein": "15g",
+        "fat": "12g"
+      },
+      "vegetarian": true,
+      "ingredients": "Bread, lettuce, tomato, cheese, cucumber",
+      "recipe": "Assemble bread with vegetables, cheese, and your choice of spread."
+    },
+        "udon noodle": {
+          "calories": 220,
+          "nutrients": {
+            "carbs": "45g",
+            "protein": "7g",
+            "fat": "1g"
+          },
+          "vegetarian": true,
+          "ingredients": "Udon noodles, soy sauce, mirin, dashi",
+          "recipe": "Boil udon noodles and serve with soy-based broth and vegetables."
+        },
+        "tempura udon": {
+          "calories": 400,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "15g",
+            "fat": "20g"
+          },
+          "vegetarian": false,
+          "ingredients": "Udon noodles, tempura shrimp, soy sauce, mirin",
+          "recipe": "Cook udon noodles and top with crispy tempura shrimp and broth."
+        },
+        "soba noodle": {
+          "calories": 200,
+          "nutrients": {
+            "carbs": "40g",
+            "protein": "6g",
+            "fat": "2g"
+          },
+          "vegetarian": true,
+          "ingredients": "Soba noodles, soy sauce, sesame oil, scallions",
+          "recipe": "Boil soba noodles and serve with soy-based dressing and sesame oil."
+        },
+        "ramen noodle": {
+          "calories": 350,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "14g",
+            "fat": "15g"
+          },
+          "vegetarian": false,
+          "ingredients": "Ramen noodles, pork, egg, soy sauce, miso",
+          "recipe": "Cook ramen noodles and serve with broth, pork, and boiled egg."
+        },
+        "beef noodle": {
+          "calories": 400,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "20g",
+            "fat": "18g"
+          },
+          "vegetarian": false,
+          "ingredients": "Beef, ramen noodles, soy sauce, garlic, sesame oil",
+          "recipe": "Cook beef and noodles in a savory soy sauce broth."
+        },
+        "tensin noodle": {
+          "calories": 380,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "15g",
+            "fat": "15g"
+          },
+          "vegetarian": false,
+          "ingredients": "Noodles, chicken, vegetables, soy sauce, vinegar",
+          "recipe": "Boil noodles and serve with chicken, vegetables, and savory sauce."
+        },
+        "fried noodle": {
+          "calories": 450,
+          "nutrients": {
+            "carbs": "60g",
+            "protein": "15g",
+            "fat": "20g"
+          },
+          "vegetarian": true,
+          "ingredients": "Noodles, soy sauce, vegetables, egg",
+          "recipe": "Fry noodles with vegetables and egg, and season with soy sauce."
+        },
+        "spaghetti": {
+          "calories": 350,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "12g",
+            "fat": "8g"
+          },
+          "vegetarian": true,
+          "ingredients": "Spaghetti, tomato sauce, garlic, olive oil",
+          "recipe": "Boil spaghetti and top with garlic-infused tomato sauce."
+        },
+        "Japanese-style pancake": {
+          "calories": 300,
+          "nutrients": {
+            "carbs": "50g",
+            "protein": "6g",
+            "fat": "10g"
+          },
+          "vegetarian": true,
+          "ingredients": "Flour, eggs, sugar, baking powder",
+          "recipe": "Mix ingredients and cook pancakes in a pan."
+        },
+        "takoyaki": {
+          "calories": 250,
+          "nutrients": {
+            "carbs": "30g",
+            "protein": "8g",
+            "fat": "10g"
+          },
+          "vegetarian": false,
+          "ingredients": "Octopus, batter, bonito flakes, pickled ginger",
+          "recipe": "Fill batter with octopus, fry, and serve with toppings."
+        },
+        "gratin": {
+          "calories": 400,
+          "nutrients": {
+            "carbs": "45g",
+            "protein": "15g",
+            "fat": "20g"
+          },
+          "vegetarian": true,
+          "ingredients": "Potatoes, cheese, cream, garlic",
+          "recipe": "Layer potatoes with cheese and cream, then bake until golden."
+        },
+        "sauteed vegetables": {
+          "calories": 180,
+          "nutrients": {
+            "carbs": "30g",
+            "protein": "6g",
+            "fat": "8g"
+          },
+          "vegetarian": true,
+          "ingredients": "Carrots, zucchini, bell peppers, olive oil",
+          "recipe": "Sauté vegetables in olive oil until tender."
+        },
+        "croquette": {
+          "calories": 250,
+          "nutrients": {
+            "carbs": "35g",
+            "protein": "10g",
+            "fat": "12g"
+          },
+          "vegetarian": false,
+          "ingredients": "Mashed potatoes, ground meat, breadcrumbs",
+          "recipe": "Shape mashed potatoes and meat into patties, coat with breadcrumbs, and fry."
+        },
+        "grilled eggplant": {
+          "calories": 150,
+          "nutrients": {
+            "carbs": "20g",
+            "protein": "2g",
+            "fat": "8g"
+          },
+          "vegetarian": true,
+          "ingredients": "Eggplant, olive oil, garlic, salt",
+          "recipe": "Slice eggplant, drizzle with olive oil, and grill until tender."
+        },
+        "sauteed spinach": {
+          "calories": 100,
+          "nutrients": {
+            "carbs": "6g",
+            "protein": "4g",
+            "fat": "7g"
+          },
+          "vegetarian": true,
+          "ingredients": "Spinach, garlic, olive oil",
+          "recipe": "Sauté spinach with garlic in olive oil."
+        },
+        "vegetable tempura": {
+          "calories": 250,
+          "nutrients": {
+            "carbs": "30g",
+            "protein": "6g",
+            "fat": "15g"
+          },
+          "vegetarian": true,
+          "ingredients": "Vegetables, tempura batter, oil",
+          "recipe": "Dip vegetables in batter and deep-fry until crispy."
+        },
+        "miso soup": {
+          "calories": 120,
+          "nutrients": {
+            "carbs": "15g",
+            "protein": "6g",
+            "fat": "5g"
+          },
+          "vegetarian": true,
+          "ingredients": "Miso paste, tofu, seaweed, broth",
+          "recipe": "Mix miso paste with broth, tofu, and seaweed, then heat."
+        },
+        "potage": {
+          "calories": 180,
+          "nutrients": {
+            "carbs": "25g",
+            "protein": "5g",
+            "fat": "7g"
+          },
+          "vegetarian": true,
+          "ingredients": "Potatoes, onions, cream, stock",
+          "recipe": "Cook vegetables and blend into a creamy soup."
+        },
+        "sausage": {
+          "calories": 300,
+          "nutrients": {
+            "carbs": "5g",
+            "protein": "20g",
+            "fat": "25g"
+          },
+          "vegetarian": false,
+          "ingredients": "Pork, beef, seasoning",
+          "recipe": "Grill or fry sausages until cooked through."
+        },
+            "oden": {
+              "calories": 200,
+              "nutrients": {
+                "carbs": "20g",
+                "protein": "10g",
+                "fat": "8g"
+              },
+              "vegetarian": false,
+              "ingredients": "Daikon, tofu, konjac, fish cakes, dashi",
+              "recipe": "Simmer all ingredients in dashi broth for several hours."
+            },
+            "omelet": {
+              "calories": 150,
+              "nutrients": {
+                "carbs": "2g",
+                "protein": "10g",
+                "fat": "12g"
+              },
+              "vegetarian": true,
+              "ingredients": "Eggs, milk, salt, pepper",
+              "recipe": "Whisk eggs and cook in a hot pan with butter or oil."
+            },
+            "ganmodoki": {
+              "calories": 230,
+              "nutrients": {
+                "carbs": "30g",
+                "protein": "10g",
+                "fat": "12g"
+              },
+              "vegetarian": true,
+              "ingredients": "Tofu, vegetables, soy sauce, breadcrumbs",
+              "recipe": "Fry tofu and vegetable patties in oil until golden brown."
+            },
+            "jiaozi": {
+              "calories": 250,
+              "nutrients": {
+                "carbs": "30g",
+                "protein": "10g",
+                "fat": "12g"
+              },
+              "vegetarian": false,
+              "ingredients": "Dough, ground pork, cabbage, ginger, soy sauce",
+              "recipe": "Wrap filling in dough and steam or pan-fry until crispy."
+            },
+            "stew": {
+              "calories": 350,
+              "nutrients": {
+                "carbs": "40g",
+                "protein": "20g",
+                "fat": "12g"
+              },
+              "vegetarian": false,
+              "ingredients": "Beef, potatoes, carrots, onions, broth",
+              "recipe": "Simmer beef and vegetables in broth until tender."
+            },
+            "teriyaki grilled fish": {
+              "calories": 350,
+              "nutrients": {
+                "carbs": "10g",
+                "protein": "25g",
+                "fat": "20g"
+              },
+              "vegetarian": false,
+              "ingredients": "Fish, soy sauce, mirin, sake, sugar",
+              "recipe": "Grill fish with a teriyaki glaze made from soy sauce and mirin."
+            },
+            "fried fish": {
+              "calories": 400,
+              "nutrients": {
+                "carbs": "20g",
+                "protein": "25g",
+                "fat": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": "Fish fillets, flour, oil",
+              "recipe": "Coat fish fillets in flour and deep-fry until golden."
+            },
+            "grilled salmon": {
+              "calories": 350,
+              "nutrients": {
+                "carbs": "0g",
+                "protein": "25g",
+                "fat": "20g"
+              },
+              "vegetarian": false,
+              "ingredients": "Salmon, olive oil, salt, pepper",
+              "recipe": "Grill salmon with a drizzle of olive oil and season with salt and pepper."
+            },
+            "salmon meuniere": {
+              "calories": 400,
+              "nutrients": {
+                "carbs": "10g",
+                "protein": "25g",
+                "fat": "30g"
+              },
+              "vegetarian": false,
+              "ingredients": "Salmon, flour, butter, lemon, parsley",
+              "recipe": "Dredge salmon in flour and pan-fry in butter, then finish with lemon and parsley."
+            },
+            "sashimi": {
+              "calories": 150,
+              "nutrients": {
+                "carbs": "0g",
+                "protein": "20g",
+                "fat": "7g"
+              },
+              "vegetarian": false,
+              "ingredients": "Raw fish, wasabi, soy sauce",
+              "recipe": "Serve thinly sliced raw fish with wasabi and soy sauce."
+            },
+            "grilled pacific saury": {
+              "calories": 300,
+              "nutrients": {
+                "carbs": "0g",
+                "protein": "20g",
+                "fat": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": "Pacific saury, salt",
+              "recipe": "Grill the fish whole with a sprinkle of salt."
+            },
+            "sukiyaki": {
+              "calories": 450,
+              "nutrients": {
+                "carbs": "30g",
+                "protein": "25g",
+                "fat": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": "Beef, tofu, vegetables, soy sauce, sugar",
+              "recipe": "Simmer beef, tofu, and vegetables in a sweet soy sauce broth."
+            },
+            "sweet and sour pork": {
+              "calories": 500,
+              "nutrients": {
+                "carbs": "50g",
+                "protein": "25g",
+                "fat": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": "Pork, vinegar, sugar, bell peppers, pineapple",
+              "recipe": "Cook pork and vegetables in a sweet and tangy sauce made from vinegar and sugar."
+            },
+            "lightly roasted fish": {
+              "calories": 250,
+              "nutrients": {
+                "carbs": "0g",
+                "protein": "20g",
+                "fat": "15g"
+              },
+              "vegetarian": false,
+              "ingredients": "Fish, olive oil, lemon",
+              "recipe": "Roast fish in the oven with olive oil and lemon slices."
+            },
+            "steamed egg hotchpotch": {
+              "calories": 180,
+              "nutrients": {
+                "carbs": "8g",
+                "protein": "12g",
+                "fat": "10g"
+              },
+              "vegetarian": true,
+              "ingredients": "Eggs, tofu, soy sauce, vegetables",
+              "recipe": "Steam eggs with tofu and vegetables, then season with soy sauce."
+            },
+            "tempura": {
+              "calories": 300,
+              "nutrients": {
+                "carbs": "30g",
+                "protein": "10g",
+                "fat": "18g"
+              },
+              "vegetarian": true,
+              "ingredients": "Shrimp, vegetables, tempura batter, oil",
+              "recipe": "Dip shrimp and vegetables in batter and deep-fry until crispy."
+            },
+            "fried chicken": {
+              "calories": 450,
+              "nutrients": {
+                "carbs": "20g",
+                "protein": "25g",
+                "fat": "30g"
+              },
+              "vegetarian": false,
+              "ingredients": "Chicken, flour, oil, spices",
+              "recipe": "Coat chicken in flour and fry until crispy and golden."
+            },
+            "sirloin cutlet": {
+              "calories": 500,
+              "nutrients": {
+                "carbs": "20g",
+                "protein": "40g",
+                "fat": "30g"
+              },
+              "vegetarian": false,
+              "ingredients": "Sirloin steak, breadcrumbs, egg",
+              "recipe": "Bread and deep-fry sirloin steak until golden brown."
+            },
+            "nanbanzuke": {
+              "calories": 350,
+              "nutrients": {
+                "carbs": "30g",
+                "protein": "20g",
+                "fat": "20g"
+              },
+              "vegetarian": false,
+              "ingredients": "Fish, vinegar, soy sauce, onion",
+              "recipe": "Marinate fried fish in a vinegar-based sauce with onions."
+            },
+            "boiled fish": {
+              "calories": 250,
+              "nutrients": {
+                "carbs": "5g",
+                "protein": "20g",
+                "fat": "15g"
+              },
+              "vegetarian": false,
+              "ingredients": "Fish, soy sauce, dashi",
+              "recipe": "Simmer fish in a dashi broth with soy sauce."
+            },
+                "seasoned beef with potatoes": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "40g",
+                    "protein": "25g",
+                    "fat": "15g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Beef, potatoes, soy sauce, sugar, onion",
+                  "recipe": "Simmer beef and potatoes in a soy sauce-based broth until tender."
+                },
+                "hambarg steak": {
+                  "calories": 500,
+                  "nutrients": {
+                    "carbs": "10g",
+                    "protein": "35g",
+                    "fat": "30g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Ground beef, breadcrumbs, egg, soy sauce, onion",
+                  "recipe": "Shape ground beef into a patty and pan-fry until cooked through."
+                },
+                "beef steak": {
+                  "calories": 600,
+                  "nutrients": {
+                    "carbs": "0g",
+                    "protein": "50g",
+                    "fat": "40g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Beef steak, olive oil, salt, pepper",
+                  "recipe": "Grill or pan-fry beef steak and season with salt and pepper."
+                },
+                "dried fish": {
+                  "calories": 250,
+                  "nutrients": {
+                    "carbs": "10g",
+                    "protein": "35g",
+                    "fat": "5g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Fish, salt",
+                  "recipe": "Dry fish in the sun or in a dehydrator, then season with salt."
+                },
+                "ginger pork saute": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "15g",
+                    "protein": "25g",
+                    "fat": "20g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Pork, ginger, soy sauce, garlic, sugar",
+                  "recipe": "Stir-fry pork with ginger, soy sauce, and garlic, then add sugar for sweetness."
+                },
+                "spicy chili-flavored tofu": {
+                  "calories": 300,
+                  "nutrients": {
+                    "carbs": "15g",
+                    "protein": "20g",
+                    "fat": "20g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Tofu, chili paste, soy sauce, garlic",
+                  "recipe": "Stir-fry tofu with chili paste and garlic, season with soy sauce."
+                },
+                "yakitori": {
+                  "calories": 200,
+                  "nutrients": {
+                    "carbs": "5g",
+                    "protein": "20g",
+                    "fat": "12g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Chicken, soy sauce, sake, sugar, scallions",
+                  "recipe": "Skewer chicken and grill, basting with a soy-based sauce."
+                },
+                "cabbage roll": {
+                  "calories": 250,
+                  "nutrients": {
+                    "carbs": "20g",
+                    "protein": "15g",
+                    "fat": "15g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Cabbage, rice, ground beef, tomato sauce",
+                  "recipe": "Wrap rice and meat mixture in cabbage leaves, then simmer in tomato sauce."
+                },
+                "rolled omelet": {
+                  "calories": 180,
+                  "nutrients": {
+                    "carbs": "3g",
+                    "protein": "15g",
+                    "fat": "12g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Eggs, soy sauce, sugar, mirin",
+                  "recipe": "Whisk eggs and cook in a hot pan, rolling them as they cook."
+                },
+                "egg sunny-side up": {
+                  "calories": 100,
+                  "nutrients": {
+                    "carbs": "1g",
+                    "protein": "7g",
+                    "fat": "7g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Eggs, oil, salt, pepper",
+                  "recipe": "Fry eggs on one side, leaving the yolk intact."
+                },
+                "fermented soybeans": {
+                  "calories": 120,
+                  "nutrients": {
+                    "carbs": "10g",
+                    "protein": "8g",
+                    "fat": "6g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Soybeans, salt",
+                  "recipe": "Ferment soybeans and season with salt."
+                },
+                "cold tofu": {
+                  "calories": 100,
+                  "nutrients": {
+                    "carbs": "3g",
+                    "protein": "8g",
+                    "fat": "6g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Tofu, soy sauce, sesame oil",
+                  "recipe": "Chill tofu and serve with soy sauce and sesame oil."
+                },
+                "egg roll": {
+                  "calories": 250,
+                  "nutrients": {
+                    "carbs": "30g",
+                    "protein": "12g",
+                    "fat": "10g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Eggs, vegetables, soy sauce, egg roll wrappers",
+                  "recipe": "Roll egg and vegetables in wrappers and deep-fry until crispy."
+                },
+                "chilled noodle": {
+                  "calories": 200,
+                  "nutrients": {
+                    "carbs": "40g",
+                    "protein": "6g",
+                    "fat": "2g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Noodles, sesame paste, soy sauce, cucumber",
+                  "recipe": "Chill noodles and toss with sesame paste, soy sauce, and cucumber."
+                },
+                "stir-fried beef and peppers": {
+                  "calories": 400,
+                  "nutrients": {
+                    "carbs": "25g",
+                    "protein": "30g",
+                    "fat": "20g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Beef, bell peppers, soy sauce, garlic, onion",
+                  "recipe": "Stir-fry beef and peppers with soy sauce and garlic."
+                },
+                "simmered pork": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "15g",
+                    "protein": "30g",
+                    "fat": "20g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Pork, soy sauce, sugar, ginger",
+                  "recipe": "Simmer pork in a sweet soy sauce broth with ginger."
+                },
+                "boiled chicken and vegetables": {
+                  "calories": 250,
+                  "nutrients": {
+                    "carbs": "10g",
+                    "protein": "25g",
+                    "fat": "10g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Chicken, carrots, potatoes, onion, broth",
+                  "recipe": "Boil chicken and vegetables in a light broth until tender."
+                },
+                "sashimi bowl": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "5g",
+                    "protein": "25g",
+                    "fat": "25g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Raw fish, rice, wasabi, soy sauce",
+                  "recipe": "Serve raw fish over rice with wasabi and soy sauce."
+                },
+                "sushi bowl": {
+                  "calories": 400,
+                  "nutrients": {
+                    "carbs": "60g",
+                    "protein": "25g",
+                    "fat": "10g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Rice, raw fish, cucumber, soy sauce",
+                  "recipe": "Serve sushi rice topped with raw fish and cucumber."
+                },
+                "fish-shaped pancake with bean jam": {
+                  "calories": 250,
+                  "nutrients": {
+                    "carbs": "50g",
+                    "protein": "6g",
+                    "fat": "5g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": "Flour, red bean paste, sugar, oil",
+                  "recipe": "Cook pancake batter in fish-shaped molds and fill with sweet bean paste."
+                },
+                "shrimp with chili sauce": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "20g",
+                    "protein": "25g",
+                    "fat": "15g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": "Shrimp, chili sauce, garlic, ginger",
+                  "recipe": "Cook shrimp in a spicy chili sauce with garlic and ginger."
+                },
+                    "roast chicken": {
+                      "calories": 400,
+                      "nutrients": {
+                        "carbs": "5g",
+                        "protein": "40g",
+                        "fat": "25g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Chicken, olive oil, garlic, herbs",
+                      "recipe": "Roast chicken with garlic and herbs until crispy."
+                    },
+                    "steamed meat dumpling": {
+                      "calories": 300,
+                      "nutrients": {
+                        "carbs": "35g",
+                        "protein": "15g",
+                        "fat": "10g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Pork, cabbage, dumpling wrappers, soy sauce",
+                      "recipe": "Fill dumpling wrappers with pork and cabbage, then steam."
+                    },
+                    "omelet with fried rice": {
+                      "calories": 500,
+                      "nutrients": {
+                        "carbs": "60g",
+                        "protein": "20g",
+                        "fat": "20g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Eggs, rice, vegetables, soy sauce, oil",
+                      "recipe": "Fry rice with vegetables, then top with a fluffy omelet."
+                    },
+                    "cutlet curry": {
+                      "calories": 600,
+                      "nutrients": {
+                        "carbs": "70g",
+                        "protein": "25g",
+                        "fat": "30g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Pork cutlet, curry sauce, rice",
+                      "recipe": "Serve a crispy pork cutlet with curry sauce and rice."
+                    },
+                    "spaghetti meat sauce": {
+                      "calories": 550,
+                      "nutrients": {
+                        "carbs": "70g",
+                        "protein": "20g",
+                        "fat": "20g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Spaghetti, ground beef, tomato sauce, garlic, onion",
+                      "recipe": "Cook spaghetti and top with a savory meat sauce."
+                    },
+                    "fried shrimp": {
+                      "calories": 400,
+                      "nutrients": {
+                        "carbs": "30g",
+                        "protein": "20g",
+                        "fat": "20g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Shrimp, breadcrumbs, flour, oil",
+                      "recipe": "Dip shrimp in batter, then deep fry until crispy."
+                    },
+                    "potato salad": {
+                      "calories": 250,
+                      "nutrients": {
+                        "carbs": "35g",
+                        "protein": "5g",
+                        "fat": "10g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Potatoes, mayonnaise, mustard, pickles",
+                      "recipe": "Mix boiled potatoes with mayonnaise and mustard."
+                    },
+                    "green salad": {
+                      "calories": 150,
+                      "nutrients": {
+                        "carbs": "10g",
+                        "protein": "5g",
+                        "fat": "10g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Lettuce, tomatoes, cucumber, olive oil",
+                      "recipe": "Toss fresh vegetables with olive oil dressing."
+                    },
+                    "macaroni salad": {
+                      "calories": 300,
+                      "nutrients": {
+                        "carbs": "40g",
+                        "protein": "8g",
+                        "fat": "12g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Macaroni, mayonnaise, peas, carrots",
+                      "recipe": "Mix cooked macaroni with mayonnaise and vegetables."
+                    },
+                    "Japanese tofu and vegetable chowder": {
+                      "calories": 180,
+                      "nutrients": {
+                        "carbs": "15g",
+                        "protein": "10g",
+                        "fat": "10g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Tofu, mushrooms, spinach, soy sauce, miso",
+                      "recipe": "Simmer tofu and vegetables in a miso-based broth."
+                    },
+                    "pork miso soup": {
+                      "calories": 200,
+                      "nutrients": {
+                        "carbs": "10g",
+                        "protein": "15g",
+                        "fat": "12g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Pork, miso, tofu, seaweed",
+                      "recipe": "Simmer pork in a miso broth with tofu and seaweed."
+                    },
+                    "chinese soup": {
+                      "calories": 150,
+                      "nutrients": {
+                        "carbs": "20g",
+                        "protein": "5g",
+                        "fat": "8g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Tofu, mushrooms, vegetable broth",
+                      "recipe": "Simmer tofu and vegetables in a light vegetable broth."
+                    },
+                    "beef bowl": {
+                      "calories": 450,
+                      "nutrients": {
+                        "carbs": "50g",
+                        "protein": "25g",
+                        "fat": "20g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Beef, rice, soy sauce, sugar",
+                      "recipe": "Simmer beef in a sweet soy sauce, then serve over rice."
+                    },
+                    "kinpira-style sauteed burdock": {
+                      "calories": 150,
+                      "nutrients": {
+                        "carbs": "25g",
+                        "protein": "5g",
+                        "fat": "5g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Burdock root, soy sauce, sesame seeds",
+                      "recipe": "Saute burdock root in soy sauce and sesame seeds."
+                    },
+                    "rice ball": {
+                      "calories": 200,
+                      "nutrients": {
+                        "carbs": "40g",
+                        "protein": "5g",
+                        "fat": "2g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Rice, seaweed, pickled plum",
+                      "recipe": "Form rice into a ball and wrap with seaweed."
+                    },
+                    "pizza toast": {
+                      "calories": 350,
+                      "nutrients": {
+                        "carbs": "40g",
+                        "protein": "10g",
+                        "fat": "15g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Bread, cheese, tomato sauce, herbs",
+                      "recipe": "Toast bread, then top with cheese and tomato sauce."
+                    },
+                    "dipping noodles": {
+                      "calories": 300,
+                      "nutrients": {
+                        "carbs": "50g",
+                        "protein": "10g",
+                        "fat": "5g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Noodles, soy sauce, wasabi",
+                      "recipe": "Dip noodles into soy sauce and wasabi for flavor."
+                    },
+                    "hot dog": {
+                      "calories": 250,
+                      "nutrients": {
+                        "carbs": "20g",
+                        "protein": "12g",
+                        "fat": "15g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Hot dog, bun, mustard, ketchup",
+                      "recipe": "Serve hot dog in a bun with mustard and ketchup."
+                    },
+                    "french fries": {
+                      "calories": 400,
+                      "nutrients": {
+                        "carbs": "50g",
+                        "protein": "4g",
+                        "fat": "20g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Potatoes, oil, salt",
+                      "recipe": "Deep fry potatoes until crispy, then season with salt."
+                    },
+                    "mixed rice": {
+                      "calories": 300,
+                      "nutrients": {
+                        "carbs": "60g",
+                        "protein": "8g",
+                        "fat": "8g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": "Rice, vegetables, soy sauce",
+                      "recipe": "Mix cooked rice with sautéed vegetables and soy sauce."
+                    },
+                    "goya chanpuru": {
+                      "calories": 350,
+                      "nutrients": {
+                        "carbs": "30g",
+                        "protein": "20g",
+                        "fat": "15g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": "Bitter melon, tofu, pork, soy sauce",
+                      "recipe": "Stir-fry bitter melon, tofu, and pork in soy sauce."
+                    },
+                    "shrimp with chill source": {
+  "calories": 250,
+  "nutrients": {
+    "carbs": "20g",
+    "protein": "22g",
+    "fat": "15g"
+  },
+  "vegetarian": false,
+  "ingredients": "Shrimp, chili sauce, garlic, ginger, sugar, soy sauce",
+  "recipe": "Stir-fry shrimp with garlic, ginger, and chili sauce until cooked."
+}
+
+                  }
+                  
